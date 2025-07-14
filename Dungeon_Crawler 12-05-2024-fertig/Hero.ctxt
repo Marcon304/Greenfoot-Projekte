@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hero()
+comment2.params=
+comment2.target=void\ checkForArrowPickup()
+comment3.params=
+comment3.target=void\ checkForShooting()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ damage()
+comment6.params=dx\ dy
+comment6.target=void\ buschsprung(int,\ int)
+comment7.params=
+comment7.target=void\ buschinteraktionen()
+comment8.params=
+comment8.target=void\ movement()
+comment8.text=\r\n\ Method\ movement\r\n\ Hero\ moves\ a\ cell\ up,\ down,\ left\ or\ right\ when\ the\ w-a-s-d-keys\ are\ pressed\r\n
+comment9.params=
+comment9.target=boolean\ touchesDoor()
+numComments=10
